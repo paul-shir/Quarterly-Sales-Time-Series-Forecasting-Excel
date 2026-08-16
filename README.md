@@ -89,6 +89,7 @@ Example Excel formula:
 
 ```excel
 =AVERAGE(A6:A9)
+```
 ---
 
 ## Step 4: Calculate the Centered Moving Average
